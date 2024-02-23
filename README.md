@@ -10,7 +10,7 @@ Hey there! I'm Subasish Sahoo, a passionate Data Scientist with a deep love for 
 
 🚀 Professional Journey:
 
-I embarked on my journey in the world of data with an Bachelor's degree in Information Technology and Management (ITM) from Utkal University. Since then, I've been on a quest to explore the infinite possibilities that data holds.
+I embarked on my journey in the world of data with an Bachelor's degree in **Information Technology and Management (ITM)** from Utkal University. Since then, I've been on a quest to explore the infinite possibilities that data holds.
 
 🌐 Skills & Expertise:
 
@@ -22,7 +22,7 @@ Business Savvy: It's not just about the data; it's about the impact on the busin
 
 🎓 Continuous Learning:
 
-In the dynamic field of data science, I believe in the importance of continuous learning. I'm currently pursuing certification as a Data Scientist at Naresh IT and exploring the world of Google Data Analytics on Coursera.
+In the dynamic field of data science, I believe in the importance of continuous learning. I'm currently pursuing certification as a **Data Scientist at Naresh IT** and exploring the world of Google Data Analytics on Coursera.
 
 🌍 Making a Difference:
 
